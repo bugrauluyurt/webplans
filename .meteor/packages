@@ -23,3 +23,5 @@ iron:router
 chrismbeckett:toastr
 johnantoni:meteor-skeleton
 alanning:roles
+accounts-ui
+accounts-password
